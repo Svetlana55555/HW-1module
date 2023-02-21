@@ -11,4 +11,4 @@
 Плюс метод печати нового массива.
 
 
-[logo]: https://github.com/Svetlana55555/HW-1module/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B5.JPG
+![image alt]: (https://github.com/Svetlana55555/HW-1module/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B5.JPG)
