@@ -11,4 +11,4 @@
 Плюс метод печати нового массива.
 
 
-![Схема]:(https://github.com/Svetlana55555/HW-1module/blob/master/Схема%20к%20задаче.JPG)
+![Схема]:(https://github.com/Svetlana55555/HW-1module/blob/master/Схема%20к%20задаче.png)
